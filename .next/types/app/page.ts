@@ -1,4 +1,4 @@
-// File: F:\CreativeHub\elitecons-construction-building-react-next-js-2024-07-25-10-33-48-utc\elitecons pack\elitecons\app\page.js
+// File: D:\Cteative Hub IT\ElitCons-Next-Template\app\page.js
 import * as entry from '../../../app/page.js'
 import type { ResolvingMetadata } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
