@@ -1,6 +1,6 @@
 
 ![Logo](https://elit-cons-next-template.vercel.app/assets/images/resources/logo-1.png) 
-# Elitecons – Construction Building React Next Js
+# Elitecons – Construction Building Next Js Template
 Elitecons Template is particularly designed for construction, renovation, architecture, manufacturing, engineering, Real Estate, Solar Power, Industry, and building service company professional website with unique different homepages layouts. All files are well organized and you can customize them very easily. It include everything that you need to succeed in terms of cool website design.
 
 It covers different style of inner pages like about us, service, team, portfolio pages that will be suitable to describe you business. Elitecons offers a highly customizable code. Quality of code is maintained throughout and you have the freedom to change any given aspect of the template pack and use it to enhance the design of your website accordingly. All you have to do is to get your hands on the Elitecons template pack and start using it.
